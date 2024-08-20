@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/intro-to-react-styles/static/css/main.6a08f7a4.css",
+    "main.js": "/intro-to-react-styles/static/js/main.bc91eeb0.js",
+    "index.html": "/intro-to-react-styles/index.html",
+    "main.6a08f7a4.css.map": "/intro-to-react-styles/static/css/main.6a08f7a4.css.map",
+    "main.bc91eeb0.js.map": "/intro-to-react-styles/static/js/main.bc91eeb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a08f7a4.css",
+    "static/js/main.bc91eeb0.js"
+  ]
+}
